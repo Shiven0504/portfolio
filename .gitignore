@@ -6,6 +6,10 @@
 .pnp.js
 .yarn/install-state.gz
 
+
+#log files (catch all)
+*.log
+
 # testing
 /coverage
 
@@ -37,3 +41,6 @@ next-env.d.ts
 
 # Sentry Config File
 .env.sentry-build-plugin
+
+
+
